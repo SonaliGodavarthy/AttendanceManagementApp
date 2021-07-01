@@ -1,0 +1,4 @@
+#Wed Jun 30 19:12:47 IST 2021
+base.0=C\:\\Users\\Sonali\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

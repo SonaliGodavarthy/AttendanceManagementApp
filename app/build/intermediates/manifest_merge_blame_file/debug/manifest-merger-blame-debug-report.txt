@@ -1,0 +1,133 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.androidattendancesystem"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:7:5-60:19
+12        android:name="com.android.attendance.context.ApplicationContext"
+12-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:8:9-73
+13        android:allowBackup="true"
+13-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:9:9-35
+14        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+14-->[com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+15        android:debuggable="true"
+16        android:icon="@drawable/ic_launcher"
+16-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:10:9-45
+17        android:label="@string/app_name"
+17-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:11:9-41
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:12:9-40
+20        <activity android:name="com.android.attendance.activity.AddAttandanceExcelActivity" />
+20-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:13:9-104
+20-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:13:19-92
+21        <activity android:name="com.example.androidattendancesystem.AddAttandanceExcelActivity" />
+21-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:14:9-64
+21-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:14:19-61
+22        <activity
+22-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:15:9-23:20
+23            android:name="com.android.attendance.activity.MainActivity"
+23-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:16:13-72
+24            android:label="@string/app_name" >
+24-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:17:13-45
+25            <intent-filter>
+25-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:18:13-22:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:19:17-69
+26-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:19:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:21:17-77
+28-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:21:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:24:9-26:48
+32            android:name="com.android.attendance.activity.LoginActivity"
+32-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:25:13-73
+33            android:label="@string/app_name" />
+33-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:26:13-45
+34        <activity
+34-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:27:9-29:48
+35            android:name="com.android.attendance.activity.MenuActivity"
+35-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:28:13-72
+36            android:label="@string/app_name" />
+36-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:29:13-45
+37        <activity
+37-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:30:9-32:48
+38            android:name="com.android.attendance.activity.AddFacultyActivity"
+38-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:31:13-78
+39            android:label="@string/app_name" />
+39-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:32:13-45
+40        <activity
+40-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:33:9-35:48
+41            android:name="com.android.attendance.activity.AddStudentActivity"
+41-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:34:13-78
+42            android:label="@string/app_name" />
+42-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:35:13-45
+43        <activity
+43-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:36:9-38:48
+44            android:name="com.android.attendance.activity.ViewFacultyActivity"
+44-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:37:13-79
+45            android:label="@string/app_name" />
+45-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:38:13-45
+46        <activity
+46-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:39:9-41:48
+47            android:name="com.android.attendance.activity.ViewStudentActivity"
+47-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:40:13-79
+48            android:label="@string/app_name" />
+48-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:41:13-45
+49        <activity
+49-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:42:9-44:48
+50            android:name="com.android.attendance.activity.TestActivity"
+50-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:43:13-72
+51            android:label="@string/app_name" />
+51-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:44:13-45
+52        <activity
+52-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:45:9-47:48
+53            android:name="com.android.attendance.activity.ViewStudentByBranchYear"
+53-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:46:13-83
+54            android:label="@string/app_name" />
+54-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:47:13-45
+55        <activity
+55-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:48:9-50:48
+56            android:name="com.android.attendance.activity.AddAttandanceSessionActivity"
+56-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:49:13-88
+57            android:label="@string/app_name" />
+57-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:50:13-45
+58        <activity
+58-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:51:9-53:48
+59            android:name="com.android.attendance.activity.AddAttendanceActivity"
+59-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:52:13-81
+60            android:label="@string/app_name" />
+60-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:53:13-45
+61        <activity
+61-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:54:9-56:48
+62            android:name="com.android.attendance.activity.ViewAttendanceByFacultyActivity"
+62-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:55:13-91
+63            android:label="@string/app_name" />
+63-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:56:13-45
+64        <activity
+64-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:57:9-59:48
+65            android:name="com.android.attendance.activity.ViewAttendancePerStudentActivity"
+65-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:58:13-92
+66            android:label="@string/app_name" />
+66-->C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:59:13-45
+67
+68        <meta-data
+68-->[com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+69            android:name="android.support.VERSION"
+69-->[com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:27:13-51
+70            android:value="26.1.0" />
+70-->[com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:28:13-35
+71    </application>
+72
+73</manifest>

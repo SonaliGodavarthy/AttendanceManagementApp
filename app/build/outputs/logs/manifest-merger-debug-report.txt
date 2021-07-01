@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\29cb2115142eabfbbe4c773adfc0097a\constraint-layout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:7:5-60:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\29cb2115142eabfbbe4c773adfc0097a\constraint-layout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\29cb2115142eabfbbe4c773adfc0097a\constraint-layout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:8:9-73
+activity#com.android.attendance.activity.AddAttandanceExcelActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:13:9-104
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:13:19-92
+activity#com.example.androidattendancesystem.AddAttandanceExcelActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:14:9-64
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:14:19-61
+activity#com.android.attendance.activity.MainActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:16:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:24:9-26:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:25:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:27:9-29:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:28:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:31:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:33:9-35:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:34:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:36:9-38:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:37:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:39:9-41:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:40:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:42:9-44:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:43:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:45:9-47:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:46:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:48:9-50:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:49:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:51:9-53:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:52:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:54:9-56:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:55:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:57:9-59:48
+	android:label
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:58:13-92
+uses-sdk
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\29cb2115142eabfbbe4c773adfc0097a\constraint-layout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\29cb2115142eabfbbe4c773adfc0097a\constraint-layout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sonali\AndroidStudioProjects\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\020e3e414aff10cce9f59250b3ba1e0d\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Sonali\.gradle\caches\transforms-2\files-2.1\8a8b49ac6fefc2295cb94c8290c78d69\support-v4-26.1.0\AndroidManifest.xml:27:13-51
